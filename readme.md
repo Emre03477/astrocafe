@@ -1,8 +1,7 @@
 
 # Astro Cafe
 
-Astro Cafe, kullanıcıların burç yorumlarını alabilecekleri bir astroloji botudur. Bu bot, günlük, haftalık ve aylık burç yorumları sunarak astrolojik bilgiler sağlar.
-
+Astro Cafe, kullanıcıların burç yorumlarını alabilecekleri bir astroloji botudur.
 ## Kurulum
 
 1. **Depoyu Klonlayın:**
