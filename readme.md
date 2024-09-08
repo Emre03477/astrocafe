@@ -32,7 +32,7 @@ Astro Cafe botunda varsayılan prefix `.` (nokta) karakteridir.
 
 ## Lisans
 
-Bu proje [CC BY-NC-ND 4.0](LICENSE) altında lisanslanmıştır.
+Bu proje [CC BY-NC-ND 4.0](LICENSE.md) altında lisanslanmıştır.
 
 ## İletişim
 
