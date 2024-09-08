@@ -38,4 +38,4 @@ Bu proje [Creative Commons Zero](LICENSE) altında lisanslanmıştır.
 ## İletişim
 
 Herhangi bir soru veya geri bildirim için [iletisim@meemre.xyz](mailto:iletisim@meemre.xyz) adresinden bana ulaşabilirsiniz.
-```
+
