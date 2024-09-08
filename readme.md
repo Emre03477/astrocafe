@@ -4,7 +4,7 @@
 Astro Cafe, kullanıcıların burç yorumlarını alabilecekleri bir astroloji botudur.
 ## Kurulum
 
-1. **Depoyu Klonlayın:**
+1. **Klonlayın:**
 
    ```bash
    git clone https://github.com/Emre03477/astrocafe
