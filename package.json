@@ -1,13 +1,13 @@
 {
   "name": "astro-cafe",
   "version": "1.0.0",
-  "description": "",
+  "description": "Astro Cafe, kullanıcıların burç yorumlarını alabilecekleri bir astroloji botudur.",
   "main": "index.js",
   "scripts": {
     "test": "node ."
   },
   "author": "",
-  "license": "ISC",
+  "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "aoi.js": "^6.8.5"
   }
